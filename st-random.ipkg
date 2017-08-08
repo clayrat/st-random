@@ -1,0 +1,7 @@
+package strandom
+
+sourcedir = src
+
+opts = "-p contrib --total --partial-eval"
+
+modules = Main
